@@ -1,5 +1,5 @@
 {
-  "name": "workers-council",
+  "name": "microscope",
   "version": "0.0.0",
   "description": "OpenSource software to help run a new mutualist society",
   "main": "index.js",
@@ -8,21 +8,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/m3talsmith/workers-council.git"
+    "url": "git://github.com/rebelhold/microscope.git"
   },
   "keywords": [
     "mutualist",
     "worker",
     "council",
     "microfunding",
-    "government"
+    "governing",
+    "co-working"
   ],
-  "author": "Michael Christenson II",
+  "author": "Michael Christenson II <michael@rebelhold.com>",
+  "contributors": ["David Fuka <gravetotkd@gmail.com>", "Brett Byler <bbyler@gmail.com>"],
   "license": "GPL-3.0+",
   "bugs": {
-    "url": "https://github.com/m3talsmith/workers-council/issues"
+    "url": "https://github.com/rebelhold/microscope/issues"
   },
-  "homepage": "https://github.com/m3talsmith/workers-council",
+  "homepage": "https://github.com/rebelhold/microscope",
   "dependencies": {
     "socket.io": "~0.9.16"
   }

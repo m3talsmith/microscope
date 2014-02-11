@@ -29,8 +29,8 @@ We encourage active development, that's why we use the GPL-3.0+. We believe that
 
 We are trying to make things easy for you:
 
-# You can spin up tests using ```npm test```
-# Using ```npm start``` uses nodemon
-# And we've built in a wireframe tool to help you quickly mock out new views, flip through them, and share them with others interested
+- You can spin up tests using ```npm test```
+- Using ```npm start``` uses nodemon
+- And we've built in a wireframe tool to help you quickly mock out new views, flip through them, and share them with others interested
 
 On that note, if you want to add anything just fork the repo, write a test, make it pass, and give us a pull request. We look forward to what you come up with!

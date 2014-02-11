@@ -1,4 +1,4 @@
-Microscope [![Build Status](https://travis-ci.org/rebelhold/microscope.png?branch=master)](https://travis-ci.org/rebelhold/microscope)
+Microscope [![Build Status](https://travis-ci.org/rebelhold/microscope.png?branch=master)](https://travis-ci.org/rebelhold/microscope) [![Coverage Status](https://coveralls.io/repos/rebelhold/microscope/badge.png)](https://coveralls.io/r/rebelhold/microscope)
 ================
 
 A microcosm for organizational budget dispersal and agile project building
